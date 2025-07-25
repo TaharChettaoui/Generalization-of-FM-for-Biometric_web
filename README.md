@@ -1,6 +1,6 @@
-# FRoundation: Are Foundation Models Ready for Face Recognition?
+# Trade-offs in Cross-Domain Generalization of Foundation Model Fine-Tuned for Biometric Applications
 
-Paper link : https://arxiv.org/abs/2410.23831 
+Paper link : ...
 
 
 ## Acknowledgments
