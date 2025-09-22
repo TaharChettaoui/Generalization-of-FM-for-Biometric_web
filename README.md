@@ -1,6 +1,6 @@
 # Trade-offs in Cross-Domain Generalization of Foundation Model Fine-Tuned for Biometric Applications
 
-Paper link : ...
+Paper link : https://arxiv.org/abs/2509.14921
 
 
 ## Acknowledgments
